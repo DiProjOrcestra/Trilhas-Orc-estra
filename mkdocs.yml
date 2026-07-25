@@ -54,10 +54,18 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Frontend: trilha-frontend/index.md
+  - Frontend:
+      - Visão Geral: trilha-frontend/index.md
+      - Unidade I - Onboarding: trilha-frontend/unidade-1.md
+      - Unidade II – HTML & CSS Básico: trilha-frontend/unidade-2.md
+      - Unidade III – HTML & CSS Intermediário: trilha-frontend/unidade-3.md
+      - Unidade IV – HTML & CSS Avançado: trilha-frontend/unidade-4.md
+      - Unidade V – JavaScript: trilha-frontend/unidade-5.md
+      - Unidade VI - React: trilha-frontend/unidade-6.md
+      - Central de Projetos: trilha-frontend/desafio.md
   - Backend: trilha-backend/index.md
   - DevOps: trilha-devops/index.md
   - Design (Figma):
-      - Módulos de Estudo: trilha-figma/index.md
-      - Desafio Final: trilha-figma/desafio.md
+      - Módulos de Aprendizado: trilha-figma/index.md
+      - Desafios Práticos: trilha-figma/desafio.md
   - Gamificação: trilha-gamificacao/index.md
