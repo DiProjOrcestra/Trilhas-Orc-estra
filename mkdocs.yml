@@ -38,7 +38,11 @@ extra_css:
 markdown_extensions:
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -64,7 +68,9 @@ nav:
       - Unidade VI - React: trilha-frontend/unidade-6.md
       - Central de Projetos: trilha-frontend/desafio.md
   - Backend: trilha-backend/index.md
-  - DevOps: trilha-devops/index.md
+  - DevOps:
+      - Módulos de Aprendizado: trilha-devops/index.md
+      - Desafios Práticos: trilha-devops/desafio.md
   - Design (Figma):
       - Módulos de Aprendizado: trilha-figma/index.md
       - Desafios Práticos: trilha-figma/desafio.md
