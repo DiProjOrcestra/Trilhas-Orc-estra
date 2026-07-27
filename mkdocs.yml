@@ -67,7 +67,16 @@ nav:
       - Unidade V – JavaScript: trilha-frontend/unidade-5.md
       - Unidade VI - React: trilha-frontend/unidade-6.md
       - Central de Projetos: trilha-frontend/desafio.md
-  - Backend: trilha-backend/index.md
+  - Backend:
+      - Visão Geral: trilha-backend/index.md
+      - Unidade I – Ambiente: trilha-backend/unidade-1.md
+      - Unidade II – Java POO: trilha-backend/unidade-2.md
+      - Unidade III – Estruturas de Dados: trilha-backend/unidade-3.md
+      - Unidade IV – Banco de Dados: trilha-backend/unidade-4.md
+      - Unidade V – Métodos HTTP: trilha-backend/unidade-5.md
+      - Unidade VI – Spring Boot: trilha-backend/unidade-6.md
+      - Unidade VII – Spring Security: trilha-backend/unidade-7.md
+      - Central de Projetos: trilha-backend/desafio.md
   - DevOps:
       - Módulos de Aprendizado: trilha-devops/index.md
       - Desafios Práticos: trilha-devops/desafio.md
