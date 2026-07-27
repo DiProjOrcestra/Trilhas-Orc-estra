@@ -78,9 +78,17 @@ nav:
       - Unidade VII – Spring Security: trilha-backend/unidade-7.md
       - Central de Projetos: trilha-backend/desafio.md
   - DevOps:
-      - Módulos de Aprendizado: trilha-devops/index.md
+      - Visão Geral: trilha-devops/index.md
+      - Unidade I – Fundamentos de SO & Redes: trilha-devops/unidade-1.md
+      - Unidade II – Versionamento & Arquitetura: trilha-devops/unidade-2.md
+      - Unidade III – Contêineres, Cloud & DevSecOps: trilha-devops/unidade-3.md
+      - Unidade IV – Troubleshooting & Formações: trilha-devops/unidade-4.md
       - Desafios Práticos: trilha-devops/desafio.md
   - Design (Figma):
-      - Módulos de Aprendizado: trilha-figma/index.md
+      - Visão Geral: trilha-figma/index.md
+      - Unidade I – Fundamentos & Ambiente: trilha-figma/unidade-1.md
+      - Unidade II – Auto Layout & Responsividade: trilha-figma/unidade-2.md
+      - Unidade III – Componentização: trilha-figma/unidade-3.md
+      - Unidade IV – Prototipagem & Dev Mode: trilha-figma/unidade-4.md
       - Desafios Práticos: trilha-figma/desafio.md
   - Gamificação: trilha-gamificacao/index.md
