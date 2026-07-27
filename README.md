@@ -1,5 +1,8 @@
 # Trilhas de Capacitação — Orc’estra
 
+## Link do Pages
+https://diprojorcestra.github.io/Trilhas-Orc-estra/
+
 Repositório central das trilhas de conhecimento e capacitação técnica da Orc’estra Gamificação.
 
 ## Como Executar Localmente
