@@ -1,6 +1,6 @@
 # Trilhas de Capacitação
 
-Bem-vindo ao portal oficial de capacitação da **Orc’estra Gamificação**. Cada trilha foi estruturada em unidades direcionadas de conteúdo e desafios práticos para consolidação do aprendizado.
+Bem-vindo ao portal oficial de capacitação da **Orc’estra Gamificação**. Cada trilha foi estruturada em unidades direcionadas de conteúdo e desafios práticos para consolidação do aprendizado da equipe.
 
 ---
 

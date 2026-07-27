@@ -5,20 +5,22 @@ site_author: Paulo
 theme:
   name: material
   language: pt-BR
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: custom
       accent: custom
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-sunny
         name: Alternar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
       accent: custom
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-night
         name: Alternar para modo claro
   features:
     - navigation.instant
