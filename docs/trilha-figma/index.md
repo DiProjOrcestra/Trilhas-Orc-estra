@@ -44,4 +44,4 @@ O objetivo é oferecer um caminho de aprendizado direcionado e eficiente, levand
 
 Concluiu os estudos teóricos das unidades? Acesse os Desafios Práticos para criar os protótipos reais no Figma:
 
-[Ir para os Desafios Práticos: Design (Figma) ➔](desafio.md){ .md-button .md-button--primary }
+[Ir para os Desafios Práticos ➔](desafio.md){ .md-button .md-button--primary }

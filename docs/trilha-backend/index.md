@@ -62,4 +62,4 @@ O objetivo é oferecer um caminho de aprendizado direcionado e eficiente, levand
 
 Concluiu os estudos teóricos das unidades? Acesse a Central de Desafios para visualizar os projetos práticos de Back-end:
 
-[Ir para os Desafios Práticos: Back-end ➔](desafio.md){ .md-button .md-button--primary }
+[Ir para os Desafios Práticos ➔](desafio.md){ .md-button .md-button--primary }

@@ -58,16 +58,16 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Frontend:
+  - Front-end:
       - Visão Geral: trilha-frontend/index.md
-      - Unidade I - Onboarding: trilha-frontend/unidade-1.md
+      - Unidade I – Onboarding: trilha-frontend/unidade-1.md
       - Unidade II – HTML & CSS Básico: trilha-frontend/unidade-2.md
       - Unidade III – HTML & CSS Intermediário: trilha-frontend/unidade-3.md
       - Unidade IV – HTML & CSS Avançado: trilha-frontend/unidade-4.md
       - Unidade V – JavaScript: trilha-frontend/unidade-5.md
-      - Unidade VI - React: trilha-frontend/unidade-6.md
-      - Central de Projetos: trilha-frontend/desafio.md
-  - Backend:
+      - Unidade VI – React: trilha-frontend/unidade-6.md
+      - Desafios Práticos: trilha-frontend/desafio.md
+  - Back-end:
       - Visão Geral: trilha-backend/index.md
       - Unidade I – Ambiente: trilha-backend/unidade-1.md
       - Unidade II – Java POO: trilha-backend/unidade-2.md
@@ -76,7 +76,7 @@ nav:
       - Unidade V – Métodos HTTP: trilha-backend/unidade-5.md
       - Unidade VI – Spring Boot: trilha-backend/unidade-6.md
       - Unidade VII – Spring Security: trilha-backend/unidade-7.md
-      - Central de Projetos: trilha-backend/desafio.md
+      - Desafios Práticos: trilha-backend/desafio.md
   - DevOps:
       - Visão Geral: trilha-devops/index.md
       - Unidade I – Fundamentos de SO & Redes: trilha-devops/unidade-1.md

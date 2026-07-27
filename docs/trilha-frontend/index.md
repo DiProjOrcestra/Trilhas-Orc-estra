@@ -1,61 +1,57 @@
-# Trilha Front-end
+# Trilha de Front-end
 
 ---
 
 ## 1. Visão Geral e Objetivos
 
-Este documento padroniza a capacitação interna da **Orc’estra Gamificação** para a área de **Front-end**.
-
-O objetivo é oferecer um caminho de aprendizado direcionado e eficiente, levando em consideração o tempo dos membros para focar direto nas tecnologias essenciais. Ao final da trilha, o membro será capaz de sair do zero absoluto e construir interfaces profissionais e responsivas para os projetos reais da Orc'estra.
+Este documento padroniza a capacitação interna dos membros da **Orc’estra Gamificação**, servindo como guia oficial para o desenvolvimento de competências em **Front-end**. O objetivo principal é garantir que a equipe esteja apta a construir interfaces web modernas, responsivas, organizadas e de alto desempenho.
 
 ---
 
 ## Unidades de Aprendizado
 
-Selecione uma das Unidades abaixo para iniciar ou continuar seus estudos:
-
 <div class="trilhas-grid">
   <a href="unidade-1/" class="trilha-card">
-    <h3>Unidade I - Onboarding</h3>
-    <p>Entenda o funcionamento da Web, requisições HTTP, DNS e ambiente de desenvolvimento.</p>
-    <span>Tempo Estimado: 3 dias</span>
+    <h3>Unidade I – Onboarding</h3>
+    <p>Alinhamento de expectativas, método de estudos, prazos e configuração do ambiente de desenvolvimento.</p>
+    <span class="trilha-card-link">Acessar Unidade ➔</span>
   </a>
 
   <a href="unidade-2/" class="trilha-card">
-    <h3>Unidade II - HTML & CSS Básico</h3>
-    <p>Estrutura semântica de páginas, seletores, Box Model e projeto Site Android.</p>
-    <span>Tempo Estimado: 3 semanas</span>
+    <h3>Unidade II – HTML & CSS Básico</h3>
+    <p>Fundamentos da web, estrutura de páginas com HTML5 e estilização inicial com CSS3.</p>
+    <span class="trilha-card-link">Acessar Unidade ➔</span>
   </a>
 
   <a href="unidade-3/" class="trilha-card">
-    <h3>Unidade III - HTML & CSS Intermediário</h3>
-    <p>Git & GitHub, imagens de fundo, formulários, responsividade e projetos práticos.</p>
-    <span>Tempo Estimado: 4 semanas</span>
+    <h3>Unidade III – HTML & CSS Intermediário</h3>
+    <p>Layouts modernos e responsivos com Flexbox, CSS Grid e boas práticas de estilização.</p>
+    <span class="trilha-card-link">Acessar Unidade ➔</span>
   </a>
 
   <a href="unidade-4/" class="trilha-card">
-    <h3>Unidade IV - HTML & CSS Avançado</h3>
-    <p>Dominando layouts modernos de uma e duas dimensões com Flexbox e CSS Grid.</p>
-    <span>Tempo Estimado: 2,5 semanas</span>
+    <h3>Unidade IV – HTML & CSS Avançado</h3>
+    <p>Animações, transições, variáveis CSS e técnicas avançadas para interfaces profissionais.</p>
+    <span class="trilha-card-link">Acessar Unidade ➔</span>
   </a>
 
   <a href="unidade-5/" class="trilha-card">
-    <h3>Unidade V - JavaScript</h3>
-    <p>Lógica de programação, manipulação do DOM, APIs assíncronas e currículo freeCodeCamp.</p>
-    <span>Tempo Estimado: 4 semanas</span>
+    <h3>Unidade V – JavaScript</h3>
+    <p>Lógica de programação, manipulação do DOM, eventos e JavaScript moderno (ES6+).</p>
+    <span class="trilha-card-link">Acessar Unidade ➔</span>
   </a>
 
   <a href="unidade-6/" class="trilha-card">
-    <h3>Unidade VI - React</h3>
-    <p>Componentização, JSX, Props, Hooks (useState, useEffect) e Projeto Final Costs.</p>
-    <span>Tempo Estimado: 3 semanas</span>
+    <h3>Unidade VI – React</h3>
+    <p>Desenvolvimento de componentes reutilizáveis, gerenciamento de estado e APIs com React.</p>
+    <span class="trilha-card-link">Acessar Unidade ➔</span>
   </a>
 </div>
 
 ---
 
-## Central de Desafios
+## Central de Projetos Práticos
 
-Procurando a lista completa de entregáveis para o GitHub?
+Concluiu os estudos teóricos das unidades? Acesse a Central de Desafios para criar os projetos práticos de Front-end:
 
-[Acessar Central de Projetos Práticos ➔](desafio.md){ .md-button .md-button--primary }
+[Ir para os Desafios Práticos ➔](desafio.md){ .md-button .md-button--primary }

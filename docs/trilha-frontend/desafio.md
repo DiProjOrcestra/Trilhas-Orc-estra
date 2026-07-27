@@ -1,6 +1,6 @@
 # Central de Projetos e Desafios — Front-end
 
-**Orc’estra Gamificação**
+---
 
 Esta página reúne todos os projetos práticos e entregáveis da Trilha de Front-end que devem ser desenvolvidos e publicados em repositórios públicos no GitHub.
 
@@ -61,4 +61,4 @@ Consolidar todo o conteúdo teórico do curso na construção de um gerenciador 
 
 ---
 
-[← Voltar para a Trilha Principal](index.md){ .md-button }
+[← Voltar para a Visão Geral](index.md){ .md-button }

@@ -1,11 +1,8 @@
-# Projeto Prático: Desafio Final
-
-**Orc’estra Gamificação**  
-*Trilha de Design Figma*
+# Desafios Práticos — Design (Figma)
 
 ---
 
-## 3. Desafio Final
+## Desafio Final: Prototipagem Gamificada
 
 Você foi escalado para o mais novo projeto interno da Orc’estra! Sua missão é projetar uma **interface gamificada**, aplicando tudo o que aprendeu na nossa trilha. Você tem total liberdade: pode repensar uma tela que já existe ou criar algo 100% novo do zero. Vale fazer uma nova tela de login, uma página exclusiva para a sua diretoria ou até mesmo uma lojinha de recompensas. A única regra de ouro para escolher o tema é: **seja criativo!**
 
@@ -29,7 +26,7 @@ Você foi escalado para o mais novo projeto interno da Orc’estra! Sua missão 
 
 ---
 
-!!! tip "Extras (opcionais)"
+!!! tip "Extras (Opcionais)"
 
     - O design deve ser ajustado para dispositivos *desktop* e *mobile*, utilizando *Auto Layout* e *Constraints*;
     
@@ -39,8 +36,8 @@ Você foi escalado para o mais novo projeto interno da Orc’estra! Sua missão 
 
 ### Entregável
 
-O membro deverá compartilhar o link do arquivo Figma finalizado através de um formulário que será disponibilizado para a entrega.
+O membro deverá compartilhar o link do arquivo Figma finalizado através do formulário oficial disponibilizado pela equipe.
 
 ---
 
-[← Voltar para os Módulos de Estudo](index.md){ .md-button }
+[← Voltar para a Visão Geral](index.md){ .md-button }

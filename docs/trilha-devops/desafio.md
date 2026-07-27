@@ -1,8 +1,8 @@
-# Projeto Integrador: Site Orc
+# Desafios Práticos — DevOps
 
 ---
 
-## Trilha Prática de DevOps
+## Projeto Integrador: Site Orc
 
 Durante esta trilha, o participante será responsável por preparar, executar, compreender e contribuir com o projeto institucional da Orc'estra (**Site-Orc**) utilizando boas práticas de DevOps, Git, Docker e integração contínua.
 
@@ -151,7 +151,7 @@ Pela especificação oficial do **Conventional Commits**, todos os tipos devem s
 
 ### Etapa 3 — Estrutura da Aplicação
 
-**Objetivo:** Compreender como o Site-Orc foi organized e identificar a função dos principais arquivos da aplicação.
+**Objetivo:** Compreender como o Site-Orc foi organizado e identificar a função dos principais arquivos da aplicação.
 
 #### Atividades
 Explorar toda a estrutura do projeto e identificar a estrutura de pastas, componentes reutilizáveis, páginas, assets, rotas e arquivos de configuração (`package.json`, `vite.config.js`, `App.jsx`, `main.jsx`, `Dockerfile`, `docker-compose.yml`). Produzir um pequeno documento explicando a arquitetura.
@@ -281,4 +281,4 @@ graph TD
 
 ---
 
-[← Voltar para os Módulos de Aprendizado](index.md){ .md-button }
+[← Voltar para a Visão Geral](index.md){ .md-button }

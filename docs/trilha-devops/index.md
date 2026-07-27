@@ -44,4 +44,4 @@ O objetivo é oferecer um caminho de aprendizado direcionado e eficiente, levand
 
 Concluiu os estudos teóricos das unidades? Agora é hora de colocar a mão na massa no **Projeto Integrador Site Orc**!
 
-[Ir para o Projeto Integrador: Site Orc ➔](desafio.md){ .md-button .md-button--primary }
+[Ir para os Desafios Práticos ➔](desafio.md){ .md-button .md-button--primary }
